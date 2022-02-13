@@ -87,23 +87,14 @@ p {
     background-color: #2589bd;
 }
 
-/* combined three tags under "benefits" class */
+/* combined three tags under "benefits" class for the margin-bottom and color */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+/* combined three h3 tags in "benefits" class for the margin-bottom and text-aligh */
+.benefit-lead h3, .benefit-brand, .benefit-cost {
     margin-bottom: 10px;
     text-align: center;
 }
