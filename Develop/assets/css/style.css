@@ -16,11 +16,13 @@ body {
     color: #ffffff;
 }
 
+/* this is to show the font and display for the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* this is to have an different color for seo on Horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
