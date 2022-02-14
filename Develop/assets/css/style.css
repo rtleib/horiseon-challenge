@@ -135,6 +135,7 @@ p {
     font-size: 36px;
 }
 
+/* this is for the style of the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -142,6 +143,7 @@ p {
     text-align: center;
 }
 
+/* this is the font size for the footer h2 */
 .footer h2 {
     font-size: 20px;
 }
