@@ -59,12 +59,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float-left is for the img and it's located under "content" class in html */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* float-right is for the img and it's located under "content" class in html */
 .float-right {
     float: right;
     margin-left: 25px;
