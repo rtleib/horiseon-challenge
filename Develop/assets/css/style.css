@@ -5,10 +5,12 @@
     margin: 0;
 }
 
+/* this is for the background color of the entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* this is for the sytle of the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
