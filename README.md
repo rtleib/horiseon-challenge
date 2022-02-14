@@ -1,4 +1,5 @@
 # Code Refactor Starter Code
+
 Description
 This challenge is a code refactor for the Horiseon website. 
 The purposes of this is to make the previous code more efficient, organized, comprehensible, and accessible.
